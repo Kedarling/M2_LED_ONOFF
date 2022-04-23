@@ -1,0 +1,16 @@
+HARDWARE IMPLEMENTATION
+DESCRIPTION OF COMPONENTS
+In this project the list of hardware components used are given below
+ 
+1.LDR (Light dependent resistor)
+2.Power supply
+3.Voltage regulator 
+4.ATmega8 Microcontroller
+5.Transistor
+6.Capacitor 
+7.Resistor
+8.Diode
+9.LED(Light emitting diode)
+10.Relay
+11.Connector
+12.Embedded c(software)
